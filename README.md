@@ -14,7 +14,10 @@ How To Get IP Address Of Any Snapchat User
 👨‍🏫Here Is The Tut:
 
 🌀Download Wireshark Here
- (https://www.wireshark.org/)🌀Download Arpspoof Here (https://github.com/SuperMarcus/macos-arpspoof)  - MACOS only - Kali Linux Has This Already!
+ (https://www.wireshark.org/)
+ 
+ 🌀Download Arpspoof Here 
+ (https://github.com/SuperMarcus/macos-arpspoof)  - MACOS only - Kali Linux Has This Already!
 
 1. Fire Up Terminal And Ip Forward Your Laptop/pc With This Scripts:
 Kali -   sudo sysctl net.ipv4.ip_forward = 1 
